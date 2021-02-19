@@ -1,0 +1,20 @@
+{
+  "cwd": "C:\\Users\\diamo\\Desktop\\Dev\\BunnyInjectSimilarUI",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "BunnyInject",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": false,
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#ffffff",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
